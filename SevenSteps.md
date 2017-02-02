@@ -562,7 +562,7 @@ APA
 [^ref-omp]: http://writing.berkeley.edu/wab/2-2-gone.htm
 [^ref-exit]: http://www.theteachertoolkit.com/index.php/tool/exit-ticket
 [^ref-mindmap]: http://www.mindmapping.com/
-[^ref-videohistory]: More on this in my forthcoming book _Flipped Learning in the University Classroom_ (Stylus Publishing 2017).
+[^ref-videohistory]: More on this in my  book _Flipped Learning: A Guide for Higher Education Faculty_ (Stylus Publishing 2017).
 [^ref-srl]: https://teal.ed.gov/tealguide/selfregulated
 [^ref-lorena]: http://openedx.seas.gwu.edu/courses/GW/MAE6286/2014_fall/about
 [^ref-gforms]: https://www.google.com/forms/about/
