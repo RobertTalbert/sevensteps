@@ -6,4 +6,4 @@ A significantly expanded version of this is contained in my book _Flipped Learni
 
 Direct all questions about this workbook to me at [talbertr@gvsu.edu](mailto:talbertr@gvsu.edu).
 
-<img src="FL book cover.jpg" style="width: 700px;">
+<img src="FL book cover.jpg" style="width: 300px;">
