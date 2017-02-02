@@ -1,5 +1,7 @@
 # Seven Steps to Flipped Learning Design: A Workbook
 
+![](pexels-photo-55666.jpeg)
+
 Version 3.0, February 2017
 
 __Robert Talbert, Ph.D.__, Associate Professor of Mathematics, [Grand Valley State University](http://gvsu.edu), Allendale, Michigan USA
