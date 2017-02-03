@@ -27,7 +27,7 @@ This workbook was originally written for a two-day minicourse on flipped learnin
 A significantly expanded version of this workbook will appear in my forthcoming book _Flipped Learning: A Guide for Higher Education Faculty_ coming from Stylus Publications in May 2017. More information about the book is found [on my website](http://rtalbert.org/book), and you can preorder the book [at Stylus' website](https://sty.presswarehouse.com/Books/BookDetail.aspx?productID=468277).
 
 
-### How use this book
+### How to use this book
 
 The recommended way to use this book is as follows:
 
