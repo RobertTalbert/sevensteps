@@ -22,24 +22,20 @@ Image credit: [https://static.pexels.com/photos/55666/pexels-photo-55666.jpeg](h
 
 This workbook is intended to provide a structured framework for designing a class using the principles of __flipped learning__. It is intended for any higher education faculty, regardless of your familiarity with the concept of flipped learning. In this workbook, you will learn a __systematic, structured framework for planning a single lesson in a flipped learning environment__. The idea is that if you can plan a single lesson in a single course using the principles of flipped learning, and if you can get comfortable with the nuts and bolts of a planning workflow, then you can work outward to "flip" an entire course if you choose and it won't be extraordinarily time-consuming or stressful. 
 
-This workbook was originally written for a two-day minicourse on flipped learning design that I facilitated at the Mathematical Association of America MathFest conference in Washington, D.C. on August 6--8, 2015. It was inspired by Dee Fink's article/workbook _A self-directed guide to designing courses for significant learning_[^ref2] which I highly recommend as a companion piece. Dee Fink's booklet serves as a highly useful guide for "macro" design of courses at the large scale, whereas this workbook hopefully is useful for designing lessons at the "micro" scale and in an environment specifically oriented toward flipped learning.
+This workbook was originally written for a two-day minicourse on flipped learning design at the Mathematical Association of America MathFest conference in Washington, D.C. in August 2015. It was inspired by Dee Fink's article/workbook _A self-directed guide to designing courses for significant learning_[^ref2] which I highly recommend as a companion piece. Dee Fink's booklet serves as a highly useful guide for "macro" design of courses at the large scale, whereas this workbook is for designing lessons at the "micro" scale and in an environment specifically oriented toward flipped learning.
 
 My book _Flipped Learning: A Guide for Higher Education Faculty_ (Stylus 2017) contains a significantly expanded version of this workbook along with an extensive treatment of the history, theory, and practice of flipped learning in higher education. You can order it from [Stylus' website](https://sty.presswarehouse.com/Books/BookDetail.aspx?productID=468277) or on [Amazon](http://a.co/hrqEnMy).  
 
 ### How the workbook is structured and how to use it
 
-<<<<<<< HEAD
 After this introduction, there is a brief section that attempts to give a working definition of flipped learning and some of the key terms used in the workbook so that all users will be on the same page when designing course materials. Then, there are seven short sections, one for each of the seven steps of flipped learning design. Each section has four parts: 
 
 1. _What we are going to do in this step:_ A short description of the outcome of the design step in question. 
 2. _Why are we going to do it:_ Some rationale based on theory and practice as to why this step is what it is, and where it is. 
 3. _Activities for you:_ Concrete workbook activities to complete that will lead you through the design in that step. 
 4. Then there is a set of _frequently asked questions_ (FAQs) about the step. 
-||||||| merged common ancestors
-### How use this book
-=======
+
 ### How to use this book
->>>>>>> origin/master
 
 The recommended way to use this book is as follows:
 
@@ -61,14 +57,14 @@ Throughout this workbook we will use the following definition of flipped learnin
 
 >__Flipped Learning is a pedagogical approach in which first contact with new concepts moves from the group learning space to the individual learning space in the form of structured activity, and the resulting group space is transformed into a dynamic, interactive learning environment where the educator guides students as they apply concepts and engage creatively in the subject matter.__
 
-This definition is a  variation on one given [by the Flipped Learning Network](http://flippedlearning.org/definition-of-flipped-learning/).
+This definition is a variation on one given [by the Flipped Learning Network](http://flippedlearning.org/definition-of-flipped-learning/).
 
 Let's unpack the terms in that definition: 
 
 + _Group learning space_ refers to any context in which students are assembling to learn as a group. For traditional face-to-face courses, this means "class time". For online courses, this could mean times when the class meets at the same time on Skype or a chat program to discuss things with the instructor, or a stretch of time where interaction takes place on a discussion board. 
 + _Individual learning space_ refers to any context in which students are learning outside of a formal group setting. For traditional face-to-face courses, this refers to time and space in between class meetings --- even if students work as a group (for example through an informal study group). For online classes, this refers to time and space spent by the student to work independently (again, whether or not s/he works with others). 
 
-Flipped learning is called what it is because it "flips" the use of group and individual spaces from what is normally encountered in a traditional class setup. In the traditional model, learning begins in the group space through the introduction of new ideas (by the professor, through direct instruction) and some basic learning tasks, and mastery is expected to happen through later student work in their individual spaces: 
+Flipped learning "flips" the use of group and individual spaces from what is normally encountered in a traditional class setup. In the traditional model, learning begins in the group space through the introduction of new ideas (by the professor, through direct instruction) and some basic learning tasks, and mastery is expected to happen through later student work in their individual spaces: 
 
 ![Traditional structure](tradspace.jpeg)
 
@@ -82,7 +78,7 @@ Note that very little about the _specifics_ of a flipped learning environment ar
 However, there are some things that flipped learning is _not_: 
 
 + **Flipped learning is not "videos before class, homework during class".** This is an oversimplification that is perpetuated by the popular media. Video is not necessary for flipped learning, and homework in class isn't either. In fact if the video is poor or the homework is not actively done, this is _not_ a flipped learning environment.
-+ **Flipped learning is not "assign readings before class, discuss the readings in class".** Simply _assigning_ readings often fails because students do not know how to structure time or how to read a text analytically. Unstructured pre-class activities usually fail for all but the most expert learners. Flipped learning, by contrast, insists that _all_ learners in a class have meaningful, self-regulated learning experiences prior to class. It also insists that _all_ learners have rich, challenging learning experiences during class, and not leave discussion only to the most vocal.
++ **Flipped learning is not "assign readings before class, discuss the readings in class".** Simply _assigning_ readings often fails because students do not know how to structure time or how to read a text analytically. Unstructured pre-class activities usually fail for all but the most expert learners. Flipped learning, by contrast, insists that _all_ learners in a class have meaningful independent learning experiences prior to class. It also insists that _all_ learners have rich, challenging learning experiences during class, and not leave discussion only to the most vocal.
 + **Flipped learning is not "videos before class, more lecture during class".** Using flipped learning simply to cover more material is abusing the model. Instead, we use the time liberated by moving direct instruction and other structured learning experiences out of the class to reinvest it in deep learning activities that involve students and activity.
 
 ## A quick overview of the seven steps
@@ -117,26 +113,24 @@ Your very first activity in this workbook is to write down the topic or name of 
 
 ## Step 1: Come up with learning objectives
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we are going to __create a list of concrete, measurable learning objectives__ for the lesson that you have chosen. 
 
 ### Why are we going to do it
 
-When designing either a course or a single lesson or even a single activity, we have to ask:
+When designing either a course or a single lesson or even a single activity, we have to ask: _What are students supposed to learn, and what (in my, the instructor's professional opinion) constitutes acceptable evidence that they have learned it?_ The reason for doing so is simply common sense --- both you and your students have a much easier time hitting a target that you can see than one you cannot see. 
 
->What are students supposed to learn, and what (in my, the instructor's professional opinion) constitutes acceptable evidence that they have learned it?
-
-The answers to these questions are what we call _learning objectives_. They vary in their specificity depending on the context; they tend to be broad and sweeping when designing a course (for example, "Exhibit the ability to apply basic material to applied problems you have not seen before") and more specific the more we "zoom in" on the course (for example, "Set up and solve an applied optimization problem", which is an instance of the larger course-level objective). In the context of this workbook, where we are zooming in on a single lesson, we want learning objectives that are:
+The answers to these questions are summarized in what we call _learning objectives_. Learning objectives vary in their specificity depending on the context; they tend to be broad and sweeping when designing a course and more specific the more we "zoom in" on the course. In the context of this workbook, where we are zooming in on a single lesson, we want learning objectives that are:
 
 + __Unambiguous__. Each learning objective should be specific, easy to understand, and --- especially --- something the student can use later as a yardstick to measure their own understanding. 
 + __Concrete__. Objectives should only refer to actions we can actually measure, rather than internal states of mind or other non-measurable things. As a consequence, _words like "Know" or "Understand" or "Appreciate" should not be part of a lesson-level learning objective_. Obviously we want students to know, understand, and appreciate the main ideas of the lesson. But, how will you know if a student is doing so? The _actions_ they perform that tells you so are the real learning objectives. 
-+ __Comprehensive__. Everything of importance in the lesson should be addressed by a combination of learning objectives (if not by its own learning objective).
-+ __Minimal__. At the same time, we want to eliminate any redundancies in learning objectives so as to make the cognitive load on students as low as possible (but no lower!).
++ __Comprehensive__. Everything of importance in the lesson should be addressed either by a learning objectives or a combination of them. 
++ __Minimal__. While being comprehensive, learning objectives should not contain needless redundancies. 
 
-Once we ask and answer these questions, we are going to _share them with the students in the course_, in an up-front way that lets students know what it is they are supposed to be learning. By determining our learning objectives and sharing them with students, several good things happen: Students get a sense of the purpose of the lesson. Students also get a set of criteria that they can use to determine whether they really "know the material" or not, which is a crucial element of _self-regulated learning_. And we instructors get a set of criteria that we can use to assess student learning that is fair, objective, and standard for all students. 
+Once we write learning objectives for the lesson, we are going to _share them with the students in the course_ because the learning objectives are primarily for the students' benefit. They help students know what they are supposed to be learning and how to know when they have learned it. And we instructors, too, get a set of criteria that we can use to assess student learning that is fair, objective, and standard for all students. 
 
-To be sure, not all desirable outcomes of our courses can be encapsulated by learning objectives like these. For example, I want students in my mathematics courses to finish the course being fluent and comfortable with the concept of abstraction. That's a _course_-level objective. But on the micro scale, zooming into a single lesson, I have to think about specific tasks that students can perform, and which are measureable so that I can assess them, that move students incrementally toward that goal. That's what we're talking about in Step 1. 
+We are not saying here that every possible desired outcome of a course can be reduced to a combination of task-oriented learning objectives on a short list. For example, I want students in my mathematics courses to become fluent and comfortable with the concept of abstraction. That's a good _course_-level objective. But on the micro scale, zooming into a single lesson, I have to think about specific tasks that students can perform, and which are measureable so that I can assess them, that move students incrementally toward that goal. That's what we're talking about in Step 1. 
 
 **Example:** Suppose we're planning out a lesson in algebra focusing on the quadratic formula. By drawing upon my expertise as an instructor and maybe by scanning my textbook's section on this lesson, here is a possible list of learning objectives: 
 
@@ -171,42 +165,40 @@ If you need more space, or have more than 8 objectives, just put them on a separ
 
 ### FAQ's about Step 1
 
-__Q:__ _I can't seem to come up with decent learning objectives for my lesson. What should I do?_
+__Q:__ How do I decide on the learning objectives for my lesson?
 
-__A:__ If you are using a textbook, start by skimming it and seeing what kinds of activities and exercises appear in the section you are teaching. Ask yourself: _What seem to be the most common tasks that these activities, examples, and exercises are expecting students to accomplish?_ This will give a good start on a list of learning objectives. You can also look around online for syllabi and materials from similar courses taught by others, and mine those resources for _their_ learning objectives. Finally, you can ask other people --- colleagues in your department, people in your personal learning network, etc. --- what _they_ think are the top 2--3 things students should learn in your lesson.
+__A:__ Use your own judgment as a professional as to what students should be able to do, with skill and fluency, once the lesson is over. If you are having difficulty coming up with these, one hack is to look at your textbook if you are using one. Ask yourself: _What seem to be the most common tasks that the textbook seems to highlight, in the examples and exercises and so on?_ Textbooks aren't perfect but you can often reverse-engineer learning objectives from them if they are reasonably well-written. 
 
-__Q:__ _What if I have more than 8 learning objectives for my lesson? Am I expecting too much from students?_
+__Q:__ I can't seem to get away from the verbs "know" and "understand". How do I move beyond these words? 
 
-__A:__ It's quite possible that a complex lesson could have a fairly long list of learning objectives. However it's also possible that you are being overly ambitious. Take a good look at your list and ask yourself: _Are some of these objectives not strictly necessary for my lesson, and therefore I can remove them without harming the academic rigor of my class?_ Also: _Is it possible to combine some of these objectives into one larger objective of which the smaller ones are instances?_ Also: _Am I trying to do too much in one class meeting, and should I see if I can carve out more time in a second session to cover all these objectives?_
+__A:__ It's OK to _start_ with "know", "understand", "appreciate", etc. as learning objectives as long as we get more specific. To drill down into the specifics, ask yourself: What do I mean by "know" (or "understand", etc.) and what evidence will students show me that convinces me that they "know" ("understand", etc.) that material? For example, suppose in my algebra lesson I wanted students to "know the quadratic formula". What do I mean by "know"? I could mean "state from memory"; or I could mean "explain the parts"; or I could mean "give conditions when the formula should be used and when it should not be used"; or I could mean "derive the formula from scratch"; or I could mean "apply it to a real world situation". All of these things could reasonably be interpreted as "knowing" the quadratic formula. Which one(s) do I mean? First of all, decide this for your lesson. 
 
-__Q:__ _And what if I only have one or two objectives? Is this not enough?_
-
-__A:__ It's possible that your lesson involves just one or two concrete learning objectives. But it's not likely! It's probably that the learning objectives you have can, and possibly should, be split up into smaller ones that can and perhaps should be measured separately. 
+Then once you have decided, you are already more specific and it may be the case that no further wordsmithing is needed. For example I do want students to state the quadratic formula from memory, and I want them to apply it to real world situations. Well, there are the objectives: "State the quadratic formula from memory", and "Apply the quadratic formula to real-world problems". Depending on my situation I might want to add some more to these, but as learning objectives these stand up pretty well. 
 
 ---
 
 ## Step 2: Remix the learning objectives in order of complexity
 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we are going to __take the learning objective list from Step 1 and reorder it according to the cognitive complexity of the tasks from simplest to hardest__. 
 
 ### Why are we going to do it
 
-Not all learning objectives in a lesson are created equal. Some are very simple: stating definitions of terms, recalling key dates and facts, identifying parts of the body or parts of a painting. Some are much more complex: analyzing a poem for structure, critiquing an argument, creating a model. __In flipped learning, we want students to engage with new concepts independently in their individual spaces but we do not expect students to master all the learning objectives on their own__. That is, we don't expect students to "teach themselves the material" --- not all of it, anyway. But we do insist that students learn the _basic_ material, the stuff that can certainly be acquired through guided, structured independent work. 
+Not all learning objectives in a lesson are created equal. Some are very simple: stating definitions of terms, recalling key dates and facts, identifying parts of the body or parts of a painting. Some are much more complex: analyzing a poem for structure, critiquing an argument, creating a model. __In flipped learning, we want students to engage with new concepts independently in their individual spaces but we do not expect students to master all the learning objectives on their own__. 
 
-In order to do this, both we and our students have to have a sense of which objectives are simple and which ones aren't. That's probably easy for us, but not so easy for students, who typically have little to no experience in judging the complexity of a learning task from its description. 
+We don't expect students to "teach themselves the material" --- not all of it, anyway. But we do insist that students learn the _basic_ material, the stuff that can certainly be acquired through guided, structured independent work. In order to do this, both we and our students have to have a sense of which objectives are simple and which ones aren't. That's probably easy for us, but not so easy for students, who typically have little to no experience in judging the complexity of a learning task from its description. 
 
 A useful framework for thinking about complexity of learning tasks is __Bloom's Taxonomy__ ([^ref-bloom] and revised/updated in [^ref-bloomupdate]). Bloom's Taxonomy is often depicted as a pyramid:
 
 ![Bloom's Taxonomy](vandycft-bloom.jpg)
 
-Categories of cognitive tasks that are lower on the pyramid are considered to be less cognitively complex, and the complexity increases as we move up the pyramid. Note in this picture the _action verbs_ that are often associated with the various levels. Here is a 3D depiction of Bloom's Taxonomy made by Rex Heer at Iowa State University that splits student learning activities into two dimensions (Knowledge and Cognitive Processes) and then vertically by complexity level:
+Categories of cognitive tasks that are lower on the pyramid are considered to be less cognitively complex, and the complexity increases as we move up the pyramid. Note the action verbs in each level --- very useful for fleshing out learning objectives. Here is a 3D depiction of Bloom's Taxonomy made by Rex Heer at Iowa State University that splits student learning activities into two dimensions (Knowledge and Cognitive Processes) and then vertically by complexity level:
 
 ![3D Bloom's Taxonomy](iowast-bloom.png)
 
-The 3D version is particularly helpful in university-level mathematics where a distinction between __procedural knowledge__ (recall of formulas and methods, and performance of mechanical computation) and __conceptual knowledge__ (deeper understanding of mathematical concepts, as measured in different ways such as applications and proof) becomes important. 
+We want to use Bloom's Taxonomy or something like it to put our learning objective list in order. 
 
 **Example:** Remember the learning objectives from the quadratic formula lesson: 
 
@@ -255,15 +247,13 @@ __A:__ Not necessarily. For example, there are courses in the health sciences fo
 
 ## Step 3: Outline the group space activity 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we are going to __outline the main activity or activities that students will do in the group space__. 
 
 ### Why are we going to do it
 
-Although conversations about flipped learning often focus on what students do before class and the videos they watch (more on that later), __the real purpose of flipped learning is on what students do during class__ (in their group space). We want to focus valuable class time --- when students and instructor are together and can help each other --- on tasks that are rigorous, creative, and challenging and therefore benefit the most from being together. 
-
-_Those activities usually involve the items that are now in the bottom half of your remixed list of learning objectives_. These objectives are at the heart of a university-level "understanding" of the subject, and therefore they are of utmost importance and they need "all hands on deck" to attain them. That's why we are going to put the design of the in-class experience next, at the heart of the design process, and wait until later to think about what students do prior to this. 
+Although conversations about flipped learning often focus on what students do before class and the videos they watch (more on that later), __the real purpose of flipped learning is on what students do during class__ (in their group space). We want to focus valuable class time --- when students and instructor are together and can help each other --- on tasks that are rigorous, creative, and challenging and therefore benefit the most from being together. _Those activities usually involve the items that are now in the bottom half of your remixed list of learning objectives_. That's why we are going to put the design of the in-class experience next, at the heart of the design process, and wait until later to think about what students do prior to this. 
 
 So, in this step you need to think about activities that your students can do in class that address the hardest elements of your learning objective list. This may be just a single objective! But if that one objective is so problematic that your student need to spend 45-50 minutes of laser-like focus on it, then so be it. (College students rarely have a sense of how to focus on one thing for an extended period of time, so flipped learning design is helping them acquire and master this skill.)
 
@@ -277,20 +267,20 @@ So, in this step you need to think about activities that your students can do in
 With those objectives in mind, here's what I would brainstorm as far as a plan for a 50-minute class session:
 
 + __First 10 minutes:__ Open Q&A on anything from the pre-class activity. (I haven't determined what that's going to cover yet; but I want to budget time for questions.)
-+ __Next 25 minutes:__ An activity structured as follows. First, there's a warm-up question that asks them to write out the quadratic formula and then find the roots of two second-degree polynomials. Second, there's a question that involves some real-world situation in which we want to acquire some information that needs the quadratic formula. (A classic one is to give a projectile's equation of motion and determine the time at which the projectile will hit the ground.) Third, there's a question about determining when the roots of a polynomial are real or complex (to touch on the third objective).
++ __Next 25 minutes:__ An activity structured as follows. First, there's a warm-up question that asks them to write out the quadratic formula and then find the roots of two second-degree polynomials. Second, a question that involves some real-world situation in which we want to acquire some information that needs the quadratic formula. (A classic one is to give a projectile's equation of motion and determine the time at which the projectile will hit the ground.) Third, a question about determining when the roots of a polynomial are real or complex (to touch on the third objective).
 + __Last 10 minutes:__ Some time for debriefing and then a one-minute paper to wrap things up.
 
-There are 5 minutes missing from this outline to give some built-in slack time for the actual class. Again: This is just an outline and there are pieces missing (especially, how I will assess whether students are learning during this activity). But, an activity with this outline would provide a solid 50 minutes of activity (not just "coverage") of the most complex learning tasks of the lesson. In a traditional setup, I might have 15-20 minutes for this. I will be "buying" that extra time by shifting the basic learning tasks to the individual space, which we'll talk about in a moment. 
+There are 5 minutes missing from this outline to give some built-in slack time for the actual class. Again: This is just an outline and there are pieces missing (especially, how I will assess whether students are learning during this activity). 
 
 ### Activities for you
 
 Answer each of the following:
 
-+ What are the __main objectives to address from your list of learning objectives during in-class work?__ This should be a __relatively short list__ of tasks that students should perform that address the most complex items they need to learn, from which students will benefit by working together and with you present as the instructor to help on the spot.
++ What are the __main objectives to address from your list of learning objectives during in-class work?__ This should come from the bottom of the list of learning objectives --- the most complex items they need to learn, from which students will benefit by working together and with you present as the instructor to help on the spot.
 
 <br><br><br><br><br><br>
 
-+ Generally speaking (you'll flesh out the details later), what are you going to have students _do_ in class to show you how well they are mastering those learning objectives you just listed? (In other words, what's a rough outline of the tasks you are going to give to students?)
++ Generally speaking, what are you going to have students _do_ in class to show you how well they are mastering those learning objectives you just listed? 
 
 <br><br><br><br><br><br>
 
@@ -323,7 +313,7 @@ __A:__ Suggestions:
 ## Step 4: Split up the list of learning objectives
 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we will __return to our ordered list of learning objectives and split it into two lists: Basic Objectives and Advanced Objectives__. 
 
@@ -331,7 +321,7 @@ In this step, we will __return to our ordered list of learning objectives and sp
 
 We now have a list of learning objectives that's ordered by cognitive complexity, and a sense of what is going to happen in class. Now we move _backwards_ and look again at the objectives. The list of learning objectives shows all the tasks that students should be able to do in order to provide evidence os mastery -- _eventually_. The _timing_ of student work on these matters, however. We don't need or expect students to show they've mastered _every_ learning objective _prior_ to coming to class; that's unrealistic, and if it were the case then there wouldn't be much of a need for a class.
 
-So in this step we are going to do students a favor and specify __what they need to be able to do before arriving at class__, and __what they will focus on doing during and after class__. We do this by simply splitting the list of learning objectives in two -- drawing a line that separates the pre-class objectives from the in-class objectives. We'll call those objectives __Basic__ and __Advanced__ respectively.
+So in this step we are going to do students a favor and specify __what they need to be able to do before arriving at class__, and __what they will focus on doing during and after class__. We do this by simply splitting the list of learning objectives in two -- drawing a line that separates the pre-class objectives from the in-class objectives. 
 
 Where this line is to be drawn is a function of your professional judgment. Look at your ordered list of learning objectives and ask two questions:
 
@@ -360,9 +350,7 @@ For me, my line of demarcation between Basic (students can learn these things in
     * State the conditions under which a second-degree polynomial will have two real roots, one repeated root, or two complex roots.
     * Apply the quadratic formula to solve a real-world problem.
 
-Students are certainly able to see and memorize the quadratic formula on their own. And students can learn to do basic rote mechanical calculations for using the formula to find polynomial roots, through watching videos of worked-out examples or through simply reading those examples. Neither of these tasks _needs_ class time. The other two, however, are less certain. Skilled students might be able to learn to do these tasks on their own, but I'm not sure _every_ student could. So I don't expect students to do so. Rather, these two objectives will be the focus of the group space activities; and the two basic objectives are just enough to "launch" that group space activity, which remember we outlined in the previous step, and set students up for productive work on it. 
-
-
+I feel as a professional that memorizing the quadratic formula and learning to use it on rote, no-context mechanical problems is something that is simple enough that students can and should learn then independently by studying a text or video or both. Neither of these tasks _needs_ class time. The other two, however, I'm less certain that _every_ student could learn those skills independently. So those two will be the focus of the group space activities; and the two basic objectives are just enough to "launch" that group space activity, which remember we outlined in the previous step, and set students up for productive work on it. 
 
 ### Activities for you
 
@@ -401,13 +389,13 @@ __A:__ Then you need to break down your learning objectives further and identify
 ## Step 5: Finish making the group space activity
 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we will __finish the details of the group space activities we outlined in Step 3__. 
 
 ### Why are we going to do it
 
-The "why" here is obviously because we haven't actually finished the group space activity yet. The goal here is to end this step with a finished product, ready to be deployed in class (or online if you are teaching an online or hybrid course). Whether that's a handout, a lab setup, discussion, etc. is up to you. 
+The "why" here is obviously because we haven't actually finished the group space activity yet. The goal here is to end this step with a finished product, ready to be deployed in class (or online if you are teaching an online or hybrid course). Whether that's a handout, a lab setup, discussion, etc. is up to you. The activities below will help you do this right. 
 
 
 ### Activities for you
@@ -449,23 +437,22 @@ __A:__ Not necessarily. Sometimes there are Advanced objectives that are _so_ Ad
 
 
 
-
-
-
 ---
 
 ## Step 6: Design the Guided Practice for pre-class work
 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we will __write up the activity that students will do in their individual space to prepare for the group space activity__. The model presented here is called _Guided Practice_. 
 
 ### Why are we going to do it
 
-You have probably asked at some point in this process, _What if students don't come prepared for class?_ Let's counter that with another question: _Why wouldn't a student prepare for class?_ There are many answers to this question but they all hinge on a single idea: motivation. Simply put, if students _want_ to prepare for class, then barring circumstances out of their control, they'll do so. 
+Although the heart of flipped learning is its focus on the group space, its distinguishing characteristic is its use of the individual space. Many courses _say_ they want students to get meaningful work done prior to class, but flipped learning environments _insist_ on it --- indeed they _depend_ on it. So clearly we need to design the individual space or pre-class activity now, and to do so with care. 
 
-So, what makes students _want_ to complete an activity? It's usually a combination of the following:
+This is the appropriate step for this, too, because it's hard to create a good pre-class activity until you have a good idea of what the learning objectives are and what you will have students doing in class. The pre-class activity should be _just enough to set students up for success in the group space_. Now that we have a group space activity, we're ready to go. 
+
+You have probably asked at some point in this process, _What if students don't come prepared for class?_ Let's counter that with another question: _Why wouldn't a student prepare for class?_ There are many answers to this question but they all hinge on a single idea: motivation. Simply put, if students _want_ to prepare for class, then for the most part, they'll do it. So, what makes students _want_ to complete an activity? It's usually a combination of the following:
 
 + __The activity is simple.__ The activity has an easily-understood structure and the student work required is straightforward and is perceived as "doable". 
 + __The activity is minimal.__ The activity does not ask students to do more than is necessary and keeps the extraneous cognitive load to a minimum. 
@@ -490,14 +477,13 @@ Below are links to some actual Guided Practice assignments I have given in two o
 + [Proof by mathematical induction](https://drive.google.com/open?id=0B3oyKFhpi58RQzBFUEJ0YmtPRkk)
 + [Spanning trees for weighted graphs](https://drive.google.com/open?id=0B3oyKFhpi58RWUpiRVNwZlpoMWc)
 
-
 Notice that Guided Practice activities are very simple to make up if you have been following the steps in this workbook. In fact, you already have the Learning Objectives lists written out; and it should be straightforward to write an Overview for the lesson. The work yet to be done is to generate a list of learning resources, write the exercises, and decide how you want students to turn in their work. Some thoughts on these tasks: 
 
 + Ideally, learning resources should be a mix of media --- video _and_ text _and_ websites, etc. and students should be allowed to use whatever they want that will help them learn. There is no need to "make sure students have watched the videos". Just give resources, perhaps mark a few as ones that all students should use, and then let students choose. 
 + IMPORTANT: _Videos are not necessary for a successful flipped learning experience._ A common misconception is that video is an essential part of flipping, but this is neither historically the case nor is it true today. The first instances of flipped learning in the university were in the early 2000's, predating YouTube by at least five years, and videos were either not made at all or else only recommended and not required[^ref-videohistory].  [I've written more about this on my blog](http://rtalbert.org/flipped-learning-without-video/). 
 + In many ways the exercises are the most important part of the Guided Practice --- not the videos or other resources. Take care to write a small number of good ones that collect good learning data, rather than a large number that are redundant or poorly made. 
 + You don't need to "make sure students watch the videos" because the only thing that matters in the end is whether they have gained fluency with the Basic objectives and prepared for in-class work, and Guided Practice already has a means for determining this: The exercises. The means by which students learn how to work the exercises is secondary. 
-+ Students should not have an undue work load placed on them before class. A good rule of thumb is that video content should be no longer than a typical in-class lecture would be. Another good rule of thumb is that students should spend 2--3 hours outside of class for every hour of in-class meetings; this rule can be used to judge whether the pre-class activities are too long. So, for example, a 50-minute class which normally would consist of a 45-minute lecture with 5 minutes of administrative or other tasks would be "flipped" into a Guided Practice that would take the average student about 100 minutes to complete, including no more than 45 minutes of video to watch. (Preferably far less than that.) 
++ Don't make Guided Practice activities, or whatever variation you use for pre-class work, too long. Stick to the ideal of 2-3 hours outside of class for each hour in class as a guide. For example, I try to keep the Guided Practice for a single 50-minute lesson to the level that an average student working with reasonable efficiency should take no more than 100 minutes on it, including watching video if my Guided Practice has video to watch. The first few times you do this, make sure to ask students how long it took them; shorten subsequent Guided Practices down if it's too long.
 + Student work on pre-class assignments should be collected before class if possible so that the instructor knows what students know before the in-class activities begin. Electronic methods of submission are probably the best way to do this. For example, my Guided Practice examples use Google Forms. 
 
 Finally, a word about grading Guided Practice. I recommend that __Guided Practice assignments should be graded on a Pass/Fail rubric, on the basis of completeness, effort, and timeliness only.__ In my examples above, Guided Practice is graded "Satisfactory" or "Unsatisfactory", with "Satisfactory" given if if the work is turned in on time (11:59pm of the evening before the class meeting) and each exercise on the assignment shows evidence of a good-faith effort to be right. "Unsatisfactory" is given if the work is late, if there is a question left blank, or if a response is an obvious random guess. This makes the assignment more failure-tolerant because students just have to _complete_ the assignment to get full credit, and it's a lot easier to grade.
@@ -521,32 +507,13 @@ __Q:__ OK, can we now talk about what happens if students don't do their pre-cla
 
 __A:__ Sure, but there are really two questions here: (1) What do I do if students don't do their pre-class work? And (2) How do I prevent this from happening? 
 
-Let's address the second question first, because obviously we don't _want_ students to come unprepared, and focusing on prevention and helping students to learn is a more positive and proactive stance to take. It comes back to what we mentioned earlier about _motivation_. If students _want_ to complete the Guided Practice, generally speaking they will. So our goal is to create an assignment they want to finish. 
+For this workbook we'll only briefly address the second of these questions. The first one is also important but in this workbook we don't want to lose focus on _course design_, and course design is one way to answer the question about how to prevent unpreparedness. It is something under our control and is a more positive and proactive stance to take. For a complete set of recommendations on both the _first_ question, please see my book _Flipped Learning: A Guide for Higher Education Faculty_, especially Chapter 6.
+
+Let's go back to _motivation_. If students _want_ to complete the Guided Practice, generally speaking they will. So our goal is to create an assignment they want to finish. 
 
 The _structure_ of the individual space activity is the key to this motivation. If the activity is minimal, simple, engaging, valuable, and failure-tolerant then students are more likely to complete it than otherwise. The Guided Practice model is built with this in mind. The overview and split list of Learning Objectives provides simplicity and clarity. The list of resources provides handholds for students to use, so it's engaging and doable. The exercises (if well made) are valuable, engaging, and simple. And the grading process I mentioned --- Pass/Fail on the basis of completeness and effort --- makes it failure-tolerant. 
 
-Since I started structuring pre-class assignments in this way, I have typically seen 85% to 95% of my students earn a Pass grade on every Guided Practice assignment. Getting students to do the pre-class work simply has not been a problem. This doesn't mean that every students masters the Basic learning objectives or is totally prepared for in-class work. But the students who complete the work, which again is consistently almost all of them, know enough to be able to at least work productively with others who may understand more. I truly believe that, even if you do not adopt the Guided Practice template, if you structure the pre-class activity well and make it something students _want_ to complete, they will, for the most part. 
-
-But suppose they don't. How do you handle situations where students come unprepared? You have to gauge two things: the _extent_ of the problem (how many students are unprepared?) and the _degree_ (how bad is the underpreparation?). In the full-length book form of this workbook I go into extensive detail on this (based on personal experiences). Here, I'll just focus on the "doomsday scenario" --- a large number of students come to class with major preparation issues. 
-
-First please realize this rarely happens, except at the beginning of the semester when students are still exploring the boundaries of the class and the flipped learning setup --- for example, the first time students have a class meeting that well and truly requires preparation through Guided Practice. If you have a large number of students who don't complete the work, I recommend these steps: 
-
-1. Put away the group space activity you had planned, and spend the class fielding specific questions from students about the material that they struggled with. Do this in a way that places the responsibility for asking questions on the students. For example, get students into groups of 3--4 and have them generate specific questions that are then put on the board or projector, and then prioritized. __Do not accept requests that are not questions about specific items.__ For example "I didn't understand anything" is not a question and therefore not fair game from this impromptu Q&A session; neither is "Could you re-teach section 3?" __Only specific, targeted questions are allowed and only those that are brought up by students.__
-2. Then take your time to answer those questions in a succint, clear way. 
-3. Before ending the class __make sure students are clear on the expectations being held for them in the class, and if this situation happens again they will have to face consequences that could impact their grade in the course.__ Set the boundaries in no uncertain terms. Ask students if they have questions about the boundaries; you might even have them sign a statement that affirms that they know what the boundaries are and agree to abide by them in the future. 
-4. Then, make sure to end the class as planned, by taking the last few minutes of class to have students engage in a metacognitive or self-regulation activity. A particular set of self-regulated learning questions you should ask is: 
-
->Do you feel like you were unprepared for class? If so, why? Did you seek help from anyone before class to get help? If so, what did you do, and why wasn't it helpful for you? If not, why not? What are your plans for preparing for the next class to ensure that you arrive sufficiently prepared to work? 
-
-As for the group space activity, you can adjust the calendar to do it later, assign it as homework, or something else. 
-
-__But under no circumstances should you re-teach the material in class in this case.__ The first time a widespread pattern of serious underpreparation happens, the above steps turn the group space into something that addresses student questions (which is different than simply re-teaching) and reaffirms the division of labor in the flipped learning model, and the air should be clear regarding how flipped learning works. The _second_ time this happens, it's because students are willfully not abiding by the social contract of the class, and there have to be consequences. What you _do_ in this scenario is up to you, but failing to do anything sends the message to students that the flipped learning model is just an illusion, and if enough students underprepare enough, they'll get the traditional model. Setting clear boundaries, with consequences for persistent violation, is crucial for a successful flipped learning environment. 
-
-But again --- the main thing is to write activities that students want to do in the first place, to prevent this from happening. 
-
-
-
-
+Since I started structuring pre-class assignments in this way, I have typically seen 85% to 95% of my students earn a Pass grade on every Guided Practice assignment. Getting students to do the pre-class work simply has not been a problem. This doesn't mean that every students masters the Basic learning objectives or is totally prepared for in-class work. But the students who complete the work, which again is consistently almost all of them, know enough to be able to at least work productively with others who may understand more. I truly believe that, even if you do not adopt the Guided Practice template, if you structure the pre-class activity well and make it something students _want_ to complete, I believe they will, for the most part. 
 
 
 ---
@@ -554,7 +521,7 @@ But again --- the main thing is to write activities that students want to do in 
 ## Step 7: Write up post-class activities
 
 
-### What we going to do in this step
+### What we are going to do in this step
 
 In this step, we will __design any activities that are intended to take place after the group space activity from Steps 3 and 5 is over__. 
 
@@ -633,7 +600,7 @@ The research on flipped learning is showing that flipped learning environments a
 
 ## Postscript: Some questions we did not answer in this workbook
 
-There are many things not addressed in this workbook, but which you should think about and plan for. Some of those are addressed by the questions below.
+There are many things not addressed in this workbook, but which you should think about and plan for. Some of those are addressed by the questions below. Many of these are addressed in _Flipped Learning: A Guide for Higher Education Faculty_. 
 
 + How are you going to deploy your materials? Through a LMS, a website, paper handouts, etc.?
 + How will you handle issues involving access to technology? (For example, will you require all students to have 24/7 access to a high speed internet connection -- and what if a student doesn't have that?)
