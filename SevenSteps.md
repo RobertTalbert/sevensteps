@@ -28,12 +28,18 @@ My book _Flipped Learning: A Guide for Higher Education Faculty_ (Stylus 2017) c
 
 ### How the workbook is structured and how to use it
 
+<<<<<<< HEAD
 After this introduction, there is a brief section that attempts to give a working definition of flipped learning and some of the key terms used in the workbook so that all users will be on the same page when designing course materials. Then, there are seven short sections, one for each of the seven steps of flipped learning design. Each section has four parts: 
 
 1. _What we are going to do in this step:_ A short description of the outcome of the design step in question. 
 2. _Why are we going to do it:_ Some rationale based on theory and practice as to why this step is what it is, and where it is. 
 3. _Activities for you:_ Concrete workbook activities to complete that will lead you through the design in that step. 
 4. Then there is a set of _frequently asked questions_ (FAQs) about the step. 
+||||||| merged common ancestors
+### How use this book
+=======
+### How to use this book
+>>>>>>> origin/master
 
 The recommended way to use this book is as follows:
 
